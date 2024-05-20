@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var restart: ImageButton
     private lateinit var game: ConstraintLayout
 
+
     private var currentTurn: Int = 0
     private var play: Boolean = true
 
